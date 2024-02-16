@@ -2,12 +2,8 @@
 
 ## Build Guide
 
-To compile this Aleo program, run:
+To run this Aleo program, cd into this repo you cloned and run:
 ```bash
-snarkvm build
-```
-
-To execute this Aleo program, run:
-```bash
-snarkvm run hello
+cd aleo_bank
+./run.sh
 ```
